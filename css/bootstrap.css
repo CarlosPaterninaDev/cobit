@@ -5283,6 +5283,11 @@ a.thumbnail.active {
   margin-top: 0;
   margin-bottom: 5px;
 }
+
+.font-size-quince {
+  font-size: 15px;
+}
+
 .media-list {
   padding-left: 0;
   list-style: none;
